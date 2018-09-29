@@ -1,0 +1,28 @@
+body {
+    background-image: url("/Users/analee/Desktop/Basic-Portfolio/assets/images/upfeathers.png");
+
+}
+
+header { 
+    height: 85px;
+    width: 98%;
+    background-color: white;
+    padding:15px;
+    border-style: outset;
+    border-color: lightgrey;
+    border-width: 4px;
+    margin: 0;
+}
+    
+h1 {
+    font-size: 34px;
+    background-color: #4aaaa5;
+    color: white;
+    width:130px;
+    padding:30px;
+    margin-left: 250px;
+    margin-top: 5px;
+
+
+}
+
