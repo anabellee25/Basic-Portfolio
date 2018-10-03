@@ -8,7 +8,7 @@ body {
 
 header { 
     height: 70px;
-    width: 98%;
+    width: 100%;
     background-color:#ffffff;
     padding:15px;
     border-style: outset;
@@ -78,16 +78,15 @@ header {
 }
 
 #main {
-    overflow: auto;
     clear: both;
     background: #ffffff;
     border: 2px solid #dddddd;
-    padding: 20px;
     width: 917px;
     height: 500px;
     margin: auto;
     position: relative;
     top: -50px;
+    padding: 20px;
     
 
 }
@@ -115,12 +114,9 @@ h2 {
     float: left;
     height: 300px;
     width: 680px;
+    float: right;
     position: relative;
-    left: 220px;
     bottom: 140px;
-
-    
-
 
 }
 
@@ -132,6 +128,10 @@ footer {
     width: 100%;
     margin-top: 50px;
     margin-bottom: 0;
+    color: lightgray;
+    text-align:center;
+    font-size: 12px;
+
 
 }
 
@@ -140,7 +140,7 @@ footer {
     border: solid lightgray 2px;
     margin: auto;
     margin-top: 40px;
-    height: 750px;
+    height: 700px;
     width: 920px;
     text-align: center;
     color: lightgray;
@@ -256,7 +256,7 @@ footer {
 .image5 {
     float: left;
     position: absolute;
-    top: 665px;
+    top: 615px;
     left: 380px;
     margin: 30px 0px 0px 25px;
 
